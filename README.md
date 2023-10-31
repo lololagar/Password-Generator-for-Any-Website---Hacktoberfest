@@ -3,7 +3,7 @@ Start Length+Number_Button when green flag is pressed
 Start Button when green flag is pressed
 	Switch costume to costume1
 	Hide
-Start Ball when green flag is pressed
+Start Ball when green flag is pressed 
 	Hide
 Start backdrop when green flag is pressed
 Set all variables
